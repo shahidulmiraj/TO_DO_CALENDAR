@@ -1,4 +1,4 @@
-package codewithcal.au.calendarappexample;
+package calendar.au.ToDoCalendar;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("codewithcal.au.calendarappexample", appContext.getPackageName());
+        assertEquals("calendar.au.calendarappexample", appContext.getPackageName());
     }
 }

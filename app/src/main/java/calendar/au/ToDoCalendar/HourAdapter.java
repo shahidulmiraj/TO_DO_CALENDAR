@@ -1,4 +1,4 @@
-package codewithcal.au.calendarappexample;
+package calendar.au.ToDoCalendar;
 
 import android.content.Context;
 import android.view.LayoutInflater;

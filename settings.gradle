@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "CalendarAppExample"
+rootProject.name = "ToDoCalendar"

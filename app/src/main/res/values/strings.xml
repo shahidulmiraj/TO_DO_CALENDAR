@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">CalendarAppExample</string>
+    <string name="app_name">TO DO CALENDAR</string>
     <string name="back"><![CDATA[<-]]></string>
     <string name="forward"><![CDATA[->]]></string>
+    <string name="title">Alert Title</string>
+    <string name="message">Do you want to exit ? </string>
 </resources>
