@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010256731733",
+    "project_id": "todocalendar-b9b90",
+    "storage_bucket": "todocalendar-b9b90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010256731733:android:079e055357e461540cbedc",
+        "android_client_info": {
+          "package_name": "calendar.au.calendarappexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnuxPHREu9wGNdBmMAD6xJsj53wudEgc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

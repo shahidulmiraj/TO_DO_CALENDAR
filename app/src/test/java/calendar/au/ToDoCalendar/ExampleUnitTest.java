@@ -1,4 +1,4 @@
-package codewithcal.au.ToDoCalendar;
+package calendar.au.ToDoCalendar;
 
 import org.junit.Test;
 

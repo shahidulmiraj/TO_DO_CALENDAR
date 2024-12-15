@@ -1,4 +1,4 @@
-package codewithcal.au.ToDoCalendar;
+package calendar.au.ToDoCalendar;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
@@ -13,8 +13,8 @@ import android.widget.TextView;
 import java.time.LocalDate;
 import java.util.ArrayList;
 
-import static codewithcal.au.ToDoCalendar.CalendarUtils.daysInWeekArray;
-import static codewithcal.au.ToDoCalendar.CalendarUtils.monthYearFromDate;
+import static calendar.au.ToDoCalendar.CalendarUtils.daysInWeekArray;
+import static calendar.au.ToDoCalendar.CalendarUtils.monthYearFromDate;
 
 public class WeekViewActivity extends AppCompatActivity implements CalendarAdapter.OnItemListener
 {
