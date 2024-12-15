@@ -1,6 +1,6 @@
-package codewithcal.au.ToDoCalendar;
+package calendar.au.ToDoCalendar;
 
-import static codewithcal.au.ToDoCalendar.CalendarUtils.selectedDate;
+import static calendar.au.ToDoCalendar.CalendarUtils.selectedDate;
 
 import androidx.appcompat.app.AppCompatActivity;
 
