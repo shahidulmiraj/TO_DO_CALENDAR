@@ -1,4 +1,4 @@
-package codewithcal.au.calendarappexample;
+package codewithcal.au.ToDoCalendar;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
@@ -8,15 +8,12 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import java.time.LocalDate;
-import java.time.YearMonth;
-import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 
-import static codewithcal.au.calendarappexample.CalendarUtils.daysInMonthArray;
-import static codewithcal.au.calendarappexample.CalendarUtils.monthYearFromDate;
+import static codewithcal.au.ToDoCalendar.CalendarUtils.daysInMonthArray;
+import static codewithcal.au.ToDoCalendar.CalendarUtils.monthYearFromDate;
 
 public class MainActivity extends AppCompatActivity implements CalendarAdapter.OnItemListener
 {

@@ -1,4 +1,4 @@
-package codewithcal.au.calendarappexample;
+package codewithcal.au.ToDoCalendar;
 
 import androidx.appcompat.app.AppCompatActivity;
 

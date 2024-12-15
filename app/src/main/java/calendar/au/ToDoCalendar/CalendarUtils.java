@@ -1,4 +1,4 @@
-package codewithcal.au.calendarappexample;
+package codewithcal.au.ToDoCalendar;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
